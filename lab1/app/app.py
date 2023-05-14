@@ -1,6 +1,6 @@
 import random
 from flask import Flask, render_template
-from faker import Faker
+from faker import Faker 
 
 fake = Faker()
 
